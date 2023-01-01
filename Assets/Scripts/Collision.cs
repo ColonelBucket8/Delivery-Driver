@@ -6,4 +6,9 @@ public class Collision : MonoBehaviour
     {
         Debug.Log("test");
     }
+
+    void OnTriggerEnter2D()
+    {
+        Debug.Log("Trigger");
+    }
 }
