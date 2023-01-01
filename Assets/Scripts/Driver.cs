@@ -19,4 +19,6 @@ public class Driver : MonoBehaviour
         transform.Translate(0, moveAmount, 0);
 
     }
+
+
 }
